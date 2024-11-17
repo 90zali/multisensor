@@ -26,7 +26,7 @@
         <nav>
             <ul>
                 <li><a href="index.php">Home</a></li>
-                <li><a href="login.php">ogin</a></li>
+                <li><a href="login.php">Login</a></li>
                 <li><a href="log.html">Log Data</a></li>
             </ul>
         </nav>
