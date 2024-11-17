@@ -7,7 +7,7 @@
     <title>Login</title>
     <link rel="stylesheet" href="style.css">
 <body> 
-    <div class="center">
+    <div class="mx-auto">
     <div class="login-containers ">
         <h2>Login</h2>
         <form action="login_process.php" method="POST">
